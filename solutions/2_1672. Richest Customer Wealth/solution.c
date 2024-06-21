@@ -3,8 +3,6 @@
 int maximumWealth(int** accounts, int accountsSize, int* accountsColSize);
 
 int main() {
-    printf("Teste\n");
-
     return 0;
 }
 
