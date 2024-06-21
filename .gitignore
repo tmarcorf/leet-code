@@ -161,3 +161,6 @@ mono_crash.*
 
 # Windows shortcuts
 *.lnk
+
+# C ouput files
+*.exe
